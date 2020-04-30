@@ -13,7 +13,6 @@
  
 #include <Wire.h>                  // installed by default
 #include <YoutubeApi.h>            // version: 1.1.0 - https://github.com/witnessmenow/arduino-youtube-api
-                                   //check defwheezer: https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UCfa6UutS3fmq8Csju8YQUsw&key=AIzaSyA0VUO5SvWPUTdotdbGHnIrDJEIh6BOgHM
 #include <ArduinoJson.h>           // version: 5.2.0 - https://github.com/bblanchon/ArduinoJson
 #include <LedControl.h>            // version: 1.0.6 - https://github.com/wayoda/LedControl
                                    // LedControl is an Arduino library for MAX7219 and MAX7221 Led display drivers.
